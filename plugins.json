@@ -1,0 +1,12 @@
+[
+  {
+    "name": "awesome_plugin",
+    "description": "Adds awesome features",
+    "zip_url": "https://github.com/Swe-HimelRana/hsplugins/releases/download/v1.0/awesome_plugin.zip"
+  },
+  {
+    "name": "seo_booster",
+    "description": "SEO booster plugin",
+    "zip_url": "https://github.com/Swe-HimelRana/hsplugins/releases/download/v1.0/seo_booster.zip"
+  }
+]
